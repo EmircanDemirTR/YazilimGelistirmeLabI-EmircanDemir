@@ -1,11 +1,11 @@
-# 🎮 Yazılım Geliştirme Laboratuvarı I – Vize Projesi  
+# Yazılım Geliştirme Laboratuvarı I – Vize Projesi  
 **Grup:** 2  
 **Öğrenci:** Emircan Demir  
 **Numara:** 241307109  
 
 ---
 
-## 📘 Proje Tanıtımı  
+## Proje Tanıtımı  
 Bu proje, *Yazılım Geliştirme Laboratuvarı I* dersi kapsamında **Grup 2** tarafından geliştirilmiştir.  
 Amaç, Unity oyun motoru üzerinde temel oyun mekanikleri ve kullanıcı etkileşimi mantığını öğrenmek, kod organizasyonu ve proje yönetimi becerilerini uygulamalı olarak geliştirmektir.  
 
@@ -13,7 +13,7 @@ Proje kapsamında Unity kullanılarak oynanabilir bir sahne, karakter kontrolü 
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler  
+## Kullanılan Teknolojiler  
 - **Unity** (2022 veya üzeri sürüm)  
 - **C# Programlama Dili**  
 - **Visual Studio** (Kod düzenleme için)  
@@ -21,9 +21,10 @@ Proje kapsamında Unity kullanılarak oynanabilir bir sahne, karakter kontrolü 
 
 ---
 
-## 🧩 Proje Klasör Yapısı  
+## Proje Klasör Yapısı  
 
 📦 YazilimGelistirmeLabI-EmircanDemir
+
 ┣ 📂 Assets/ → Kodlar, sahneler, modeller, materyaller
 
 ┣ 📂 Packages/ → Unity paket bağımlılıkları
@@ -32,16 +33,9 @@ Proje kapsamında Unity kullanılarak oynanabilir bir sahne, karakter kontrolü 
 
 ┣ 📂 Logs/ → Otomatik oluşturulan log dosyaları
 
-┣ 📜 .gitattributes
-
-┣ 📜 .gitignore
-
-┗ 📜 README.md
-
-
 ---
 
-## 🚀 Kurulum ve Çalıştırma  
+## Kurulum ve Çalıştırma  
 1. Depoyu bilgisayarınıza klonlayın:  
    ```bash
    git clone https://github.com/EmircanDemirTR/YazilimGelistirmeLabI-EmircanDemir.git
