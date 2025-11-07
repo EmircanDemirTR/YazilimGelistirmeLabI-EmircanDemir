@@ -22,13 +22,20 @@ Proje kapsamında Unity kullanılarak oynanabilir bir sahne, karakter kontrolü 
 ---
 
 ## 🧩 Proje Klasör Yapısı  
+
 📦 YazilimGelistirmeLabI-EmircanDemir
 ┣ 📂 Assets/ → Kodlar, sahneler, modeller, materyaller
+
 ┣ 📂 Packages/ → Unity paket bağımlılıkları
+
 ┣ 📂 ProjectSettings/ → Unity proje ayarları
+
 ┣ 📂 Logs/ → Otomatik oluşturulan log dosyaları
+
 ┣ 📜 .gitattributes
+
 ┣ 📜 .gitignore
+
 ┗ 📜 README.md
 
 
